@@ -1,0 +1,27 @@
+{
+  "background_color": "#0496ec",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "PWA ASSIGNMENT",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "PWA PORTFOLIO",
+  "start_url": "/",
+  "theme_color": "#0486d8",
+  "icons": [
+    {
+      "src": "./../VAADIN/themes/default/favicon.ico",
+      "type": "image/vnd.microsoft.icon"
+    },
+    {
+      "src": "/PWA_LOGO.png",
+      "type": "image/png",
+      "sizes":"512x512"
+    }
+  ],
+  "description": "PWA APP FINALASSIGNMENT",
+  "id": "rangersupport",
+  "categories": [
+    "education"
+  ]
+}
